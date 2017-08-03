@@ -170,7 +170,6 @@ for service in services:
     print()
     print('Service permissions')
     print('-------------------')
-    print(opts.exepath)
     for line in os.popen(
             '"{0}" -ucqv "{1}" -nobanner /accepteula'.format(opts.exepath, service)).read().splitlines():
         print(line)
