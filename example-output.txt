@@ -254,7 +254,7 @@ SERVICE_NAME: AeLookupSvc
 
 Service permissions
 -------------------
-accesschk64.exe
+
 AeLookupSvc
   Medium Mandatory Level (Default) [No-Write-Up]
   RW NT AUTHORITY\SYSTEM
@@ -299,7 +299,7 @@ SERVICE_NAME: Appinfo
 
 Service permissions
 -------------------
-accesschk64.exe
+
 Appinfo
   Medium Mandatory Level (Default) [No-Write-Up]
   RW NT AUTHORITY\SYSTEM
@@ -347,7 +347,7 @@ SERVICE_NAME: AudioEndpointBuilder
 
 Service permissions
 -------------------
-accesschk64.exe
+
 AudioEndpointBuilder
   Medium Mandatory Level (Default) [No-Write-Up]
   RW NT AUTHORITY\SYSTEM
@@ -392,7 +392,7 @@ SERVICE_NAME: AudioSrv
 
 Service permissions
 -------------------
-accesschk64.exe
+
 AudioSrv
   Medium Mandatory Level (Default) [No-Write-Up]
   RW NT AUTHORITY\SYSTEM
@@ -437,7 +437,7 @@ SERVICE_NAME: BFE
 
 Service permissions
 -------------------
-accesschk64.exe
+
 BFE
   Medium Mandatory Level (Default) [No-Write-Up]
   RW NT AUTHORITY\SYSTEM
@@ -482,7 +482,7 @@ SERVICE_NAME: BITS
 
 Service permissions
 -------------------
-accesschk64.exe
+
 BITS
   Medium Mandatory Level (Default) [No-Write-Up]
   RW NT AUTHORITY\SYSTEM
@@ -527,7 +527,7 @@ SERVICE_NAME: CryptSvc
 
 Service permissions
 -------------------
-accesschk64.exe
+
 CryptSvc
   Medium Mandatory Level (Default) [No-Write-Up]
   RW NT AUTHORITY\SYSTEM
@@ -572,7 +572,7 @@ SERVICE_NAME: CscService
 
 Service permissions
 -------------------
-accesschk64.exe
+
 CscService
   Medium Mandatory Level (Default) [No-Write-Up]
   RW NT AUTHORITY\SYSTEM
@@ -617,7 +617,7 @@ SERVICE_NAME: DcomLaunch
 
 Service permissions
 -------------------
-accesschk64.exe
+
 DcomLaunch
   Medium Mandatory Level (Default) [No-Write-Up]
   R  NT AUTHORITY\Authenticated Users
@@ -676,7 +676,7 @@ SERVICE_NAME: Dhcp
 
 Service permissions
 -------------------
-accesschk64.exe
+
 Dhcp
   Medium Mandatory Level (Default) [No-Write-Up]
   R  NT AUTHORITY\Authenticated Users
@@ -732,7 +732,7 @@ SERVICE_NAME: DiagTrack
 
 Service permissions
 -------------------
-accesschk64.exe
+
 DiagTrack
   Medium Mandatory Level (Default) [No-Write-Up]
   RW NT AUTHORITY\SYSTEM
@@ -777,7 +777,7 @@ SERVICE_NAME: Dnscache
 
 Service permissions
 -------------------
-accesschk64.exe
+
 Dnscache
   Medium Mandatory Level (Default) [No-Write-Up]
   R  BUILTIN\Users
@@ -854,7 +854,7 @@ SERVICE_NAME: DPS
 
 Service permissions
 -------------------
-accesschk64.exe
+
 DPS
   Medium Mandatory Level (Default) [No-Write-Up]
   RW NT AUTHORITY\SYSTEM
@@ -908,7 +908,7 @@ SERVICE_NAME: eventlog
 
 Service permissions
 -------------------
-accesschk64.exe
+
 eventlog
   Medium Mandatory Level (Default) [No-Write-Up]
   R  NT AUTHORITY\Authenticated Users
@@ -946,7 +946,7 @@ SERVICE_NAME: EventSystem
 
 Service permissions
 -------------------
-accesschk64.exe
+
 EventSystem
   Medium Mandatory Level (Default) [No-Write-Up]
   RW NT AUTHORITY\SYSTEM
@@ -991,7 +991,7 @@ SERVICE_NAME: FDResPub
 
 Service permissions
 -------------------
-accesschk64.exe
+
 FDResPub
   Medium Mandatory Level (Default) [No-Write-Up]
   RW NT AUTHORITY\SYSTEM
@@ -1046,7 +1046,7 @@ SERVICE_NAME: FontCache
 
 Service permissions
 -------------------
-accesschk64.exe
+
 FontCache
   Medium Mandatory Level (Default) [No-Write-Up]
   RW NT AUTHORITY\SYSTEM
@@ -1101,7 +1101,7 @@ SERVICE_NAME: gpsvc
 
 Service permissions
 -------------------
-accesschk64.exe
+
 gpsvc
   Medium Mandatory Level (Default) [No-Write-Up]
   RW NT AUTHORITY\SYSTEM
@@ -1151,7 +1151,7 @@ SERVICE_NAME: iphlpsvc
 
 Service permissions
 -------------------
-accesschk64.exe
+
 iphlpsvc
   Medium Mandatory Level (Default) [No-Write-Up]
   RW NT AUTHORITY\SYSTEM
@@ -1196,7 +1196,7 @@ SERVICE_NAME: LanmanServer
 
 Service permissions
 -------------------
-accesschk64.exe
+
 LanmanServer
   Medium Mandatory Level (Default) [No-Write-Up]
   RW NT AUTHORITY\SYSTEM
@@ -1241,7 +1241,7 @@ SERVICE_NAME: LanmanWorkstation
 
 Service permissions
 -------------------
-accesschk64.exe
+
 LanmanWorkstation
   Medium Mandatory Level (Default) [No-Write-Up]
   RW NT AUTHORITY\SYSTEM
@@ -1286,7 +1286,7 @@ SERVICE_NAME: lmhosts
 
 Service permissions
 -------------------
-accesschk64.exe
+
 lmhosts
   Medium Mandatory Level (Default) [No-Write-Up]
   RW NT AUTHORITY\SYSTEM
@@ -1331,7 +1331,7 @@ SERVICE_NAME: MpsSvc
 
 Service permissions
 -------------------
-accesschk64.exe
+
 MpsSvc
   Medium Mandatory Level (Default) [No-Write-Up]
   RW NT AUTHORITY\SYSTEM
@@ -1380,7 +1380,7 @@ SERVICE_NAME: Netman
 
 Service permissions
 -------------------
-accesschk64.exe
+
 Netman
   Medium Mandatory Level (Default) [No-Write-Up]
   RW NT AUTHORITY\SYSTEM
@@ -1425,7 +1425,7 @@ SERVICE_NAME: netprofm
 
 Service permissions
 -------------------
-accesschk64.exe
+
 netprofm
   Medium Mandatory Level (Default) [No-Write-Up]
   RW NT AUTHORITY\SYSTEM
@@ -1470,7 +1470,7 @@ SERVICE_NAME: NlaSvc
 
 Service permissions
 -------------------
-accesschk64.exe
+
 NlaSvc
   Medium Mandatory Level (Default) [No-Write-Up]
   RW BUILTIN\Administrators
@@ -1521,7 +1521,7 @@ SERVICE_NAME: nsi
 
 Service permissions
 -------------------
-accesschk64.exe
+
 nsi
   Medium Mandatory Level (Default) [No-Write-Up]
   RW NT AUTHORITY\SYSTEM
@@ -1566,7 +1566,7 @@ SERVICE_NAME: PcaSvc
 
 Service permissions
 -------------------
-accesschk64.exe
+
 PcaSvc
   Medium Mandatory Level (Default) [No-Write-Up]
   RW NT AUTHORITY\SYSTEM
@@ -1614,7 +1614,7 @@ SERVICE_NAME: PlugPlay
 
 Service permissions
 -------------------
-accesschk64.exe
+
 PlugPlay
   Medium Mandatory Level (Default) [No-Write-Up]
   RW NT AUTHORITY\SYSTEM
@@ -1659,7 +1659,7 @@ SERVICE_NAME: Power
 
 Service permissions
 -------------------
-accesschk64.exe
+
 Power
   Medium Mandatory Level (Default) [No-Write-Up]
   RW NT AUTHORITY\SYSTEM
@@ -1704,7 +1704,7 @@ SERVICE_NAME: ProfSvc
 
 Service permissions
 -------------------
-accesschk64.exe
+
 ProfSvc
   Medium Mandatory Level (Default) [No-Write-Up]
   RW NT AUTHORITY\SYSTEM
@@ -1749,7 +1749,7 @@ SERVICE_NAME: RpcEptMapper
 
 Service permissions
 -------------------
-accesschk64.exe
+
 RpcEptMapper
   Medium Mandatory Level (Default) [No-Write-Up]
   R  NT AUTHORITY\Authenticated Users
@@ -1809,7 +1809,7 @@ SERVICE_NAME: RpcSs
 
 Service permissions
 -------------------
-accesschk64.exe
+
 RpcSs
   Medium Mandatory Level (Default) [No-Write-Up]
   R  NT AUTHORITY\Authenticated Users
@@ -1868,7 +1868,7 @@ SERVICE_NAME: SamSs
 
 Service permissions
 -------------------
-accesschk64.exe
+
 SamSs
   Medium Mandatory Level (Default) [No-Write-Up]
   R  NT AUTHORITY\Authenticated Users
@@ -1915,7 +1915,7 @@ SERVICE_NAME: Schedule
 
 Service permissions
 -------------------
-accesschk64.exe
+
 Schedule
   Medium Mandatory Level (Default) [No-Write-Up]
   R  NT AUTHORITY\Authenticated Users
@@ -1967,7 +1967,7 @@ SERVICE_NAME: SENS
 
 Service permissions
 -------------------
-accesschk64.exe
+
 SENS
   Medium Mandatory Level (Default) [No-Write-Up]
   R  NT AUTHORITY\Authenticated Users
@@ -2007,7 +2007,7 @@ SERVICE_NAME: ShellHWDetection
 
 Service permissions
 -------------------
-accesschk64.exe
+
 ShellHWDetection
   Medium Mandatory Level (Default) [No-Write-Up]
   RW NT AUTHORITY\SYSTEM
@@ -2052,7 +2052,7 @@ SERVICE_NAME: Spooler
 
 Service permissions
 -------------------
-accesschk64.exe
+
 Spooler
   Medium Mandatory Level (Default) [No-Write-Up]
   R  NT AUTHORITY\Authenticated Users
@@ -2090,7 +2090,7 @@ SERVICE_NAME: SSDPSRV
 
 Service permissions
 -------------------
-accesschk64.exe
+
 SSDPSRV
   Medium Mandatory Level (Default) [No-Write-Up]
   RW NT AUTHORITY\SYSTEM
@@ -2150,7 +2150,7 @@ SERVICE_NAME: Themes
 
 Service permissions
 -------------------
-accesschk64.exe
+
 Themes
   Medium Mandatory Level (Default) [No-Write-Up]
   RW NT AUTHORITY\SYSTEM
@@ -2195,7 +2195,7 @@ SERVICE_NAME: TrkWks
 
 Service permissions
 -------------------
-accesschk64.exe
+
 TrkWks
   Medium Mandatory Level (Default) [No-Write-Up]
   RW NT AUTHORITY\SYSTEM
@@ -2240,7 +2240,7 @@ SERVICE_NAME: TrustedInstaller
 
 Service permissions
 -------------------
-accesschk64.exe
+
 TrustedInstaller
   Medium Mandatory Level (Default) [No-Write-Up]
   RW NT AUTHORITY\SYSTEM
@@ -2294,7 +2294,7 @@ SERVICE_NAME: UxSms
 
 Service permissions
 -------------------
-accesschk64.exe
+
 UxSms
   Medium Mandatory Level (Default) [No-Write-Up]
   RW NT AUTHORITY\SYSTEM
@@ -2339,7 +2339,7 @@ SERVICE_NAME: VBoxService
 
 Service permissions
 -------------------
-accesschk64.exe
+
 VBoxService
   Medium Mandatory Level (Default) [No-Write-Up]
   RW NT AUTHORITY\SYSTEM
@@ -2383,7 +2383,7 @@ SERVICE_NAME: WdiServiceHost
 
 Service permissions
 -------------------
-accesschk64.exe
+
 WdiServiceHost
   Medium Mandatory Level (Default) [No-Write-Up]
   RW NT AUTHORITY\SYSTEM
@@ -2446,7 +2446,7 @@ SERVICE_NAME: WdiSystemHost
 
 Service permissions
 -------------------
-accesschk64.exe
+
 WdiSystemHost
   Medium Mandatory Level (Default) [No-Write-Up]
   RW NT AUTHORITY\SYSTEM
@@ -2509,7 +2509,7 @@ SERVICE_NAME: WinDefend
 
 Service permissions
 -------------------
-accesschk64.exe
+
 WinDefend
   Medium Mandatory Level (Default) [No-Write-Up]
   RW NT SERVICE\TrustedInstaller
@@ -2558,7 +2558,7 @@ SERVICE_NAME: WinHttpAutoProxySvc
 
 Service permissions
 -------------------
-accesschk64.exe
+
 WinHttpAutoProxySvc
   Medium Mandatory Level (Default) [No-Write-Up]
   RW NT AUTHORITY\SYSTEM
@@ -2602,7 +2602,7 @@ SERVICE_NAME: Winmgmt
 
 Service permissions
 -------------------
-accesschk64.exe
+
 Winmgmt
   Medium Mandatory Level (Default) [No-Write-Up]
   RW NT AUTHORITY\SYSTEM
@@ -2647,7 +2647,7 @@ SERVICE_NAME: WMPNetworkSvc
 
 Service permissions
 -------------------
-accesschk64.exe
+
 WMPNetworkSvc
   Medium Mandatory Level (Default) [No-Write-Up]
   RW NT AUTHORITY\SYSTEM
@@ -2693,7 +2693,7 @@ SERVICE_NAME: wscsvc
 
 Service permissions
 -------------------
-accesschk64.exe
+
 wscsvc
   Medium Mandatory Level (Default) [No-Write-Up]
   RW NT AUTHORITY\SYSTEM
@@ -2745,7 +2745,7 @@ SERVICE_NAME: WSearch
 
 Service permissions
 -------------------
-accesschk64.exe
+
 WSearch
   Medium Mandatory Level (Default) [No-Write-Up]
   RW NT AUTHORITY\SYSTEM
@@ -2790,7 +2790,7 @@ SERVICE_NAME: wuauserv
 
 Service permissions
 -------------------
-accesschk64.exe
+
 wuauserv
   Medium Mandatory Level (Default) [No-Write-Up]
   R  NT AUTHORITY\Authenticated Users
